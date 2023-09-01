@@ -1,7 +1,7 @@
 # PowerBI EndModuleProject - Global Superstore Sales Analysis
 The Global Superstore Sales Analysis repository showcases a comprehensive Power BI dashboard that provides valuable insights into sales performance. This project is designed to present key information and trends to stakeholders, enabling informed decision-making.
 ### Check out the presentation of the Global Superstore Sales Analysis Dashboard here⤵:
-Link to watch :
+Link to watch : https://drive.google.com/file/d/1ffUjaFtyxIEmE9hf0cc6T8VRN2_xCuWI/view?usp=sharing
 
 ## Key Features:
 ### ✅Key Performance Indicators (KPIs): 
